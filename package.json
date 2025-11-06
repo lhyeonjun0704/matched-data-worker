@@ -10,13 +10,13 @@
   "author": "Andre Bluehs <andre@cloudflare.com>",
   "license": "MIT",
   "dependencies": {
-    "@hpke/chacha20poly1305": "^1.7.0",
-    "@hpke/core": "^1.7.3",
-    "@hpke/dhkem-x25519": "^1.6.3",
-    "itty-router": "^5.0.17"
+    "@hpke/chacha20poly1305": "^1.7.1",
+    "@hpke/core": "^1.7.4",
+    "@hpke/dhkem-x25519": "^1.6.4",
+    "itty-router": "^5.0.22"
   },
   "devDependencies": {
-    "@types/node": "^24.2.1",
-    "wrangler": "^4.28.1"
+    "@types/node": "^24.10.0",
+    "wrangler": "^4.46.0"
   }
 }

@@ -35,9 +35,9 @@
 
 Currently supported destinations:
 
- - Google Cloud Storage
+- Google Cloud Storage
 
-An example `desintations/counter.ts` is given if you want to implement any others.
+An example `src/destinations/counter.ts` is given if you want to implement any others.
 
 # Matched Payload Format
 
